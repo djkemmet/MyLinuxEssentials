@@ -20,13 +20,14 @@ as a replacement for evernote. yes I purchased the 5 year sub, best decision eve
 # Developer
 * [GitKraken](https://www.gitkraken.com/) - My Git Client of choice.
 * Visual Studio Code - I mean, Duh.
+    * [Apophis Dark Matter Theme](https://marketplace.visualstudio.com/items?itemName=nicola-granata.apophis-dark-matter) 
 * [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html) - I highly recommend the investment. I am so much more productive in here than I am in Virtual box. plus it's easier to take projects to work. 
 
 
 
 
 
+Apophis dark matter - nadir -
 
 
-
-# Previous
+# Previousl
